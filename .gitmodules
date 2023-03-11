@@ -1,0 +1,3 @@
+[submodule "jekyll-serif-theme"]
+	path = jekyll-serif-theme
+	url = https://github.com/zerostaticthemes/jekyll-serif-theme
