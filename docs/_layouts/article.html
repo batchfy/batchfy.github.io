@@ -1,0 +1,37 @@
+---
+layout: default
+bodyClass: "page-basic"
+---
+<style type="text/css">
+    h2 {
+      color: #0B60B0;
+    }
+    h3 {
+      color: #40A2D8;
+    }
+    h4 {
+      color: #ADBC9F;
+    }
+    blockquote {
+        font-style: italic;
+        font-family: 'Georgia (serif)'!important;
+    }
+    blockquote p {
+        font-style: italic;
+        font-family: 'Georgia (serif)'!important;
+    }
+</style>
+<div class="container pb-6 pt-5 pt-md-5 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12">
+            <div class="service service-single">
+                <h1 class="title" style="text-align: center;">{{page.title}}</h1>
+                <div class="content">{{content}}</div>
+            </div>
+        </div>
+    </div>
+    {% if page.disqus %}
+    {% include disqus.html %}
+    {% endif %}
+</div>
+

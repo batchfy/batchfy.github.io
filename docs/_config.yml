@@ -1,0 +1,54 @@
+url: 'https://batchfy.com'
+baseurl: '/'
+permalink: pretty
+title: 'Batchfy'
+
+logo:
+  # mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/celery/celery512.png"
+  mobile_height: "32px"
+  mobile_width: "40px"
+  desktop: "images/celery/celery512.png"
+  desktop_height: "32px"
+  desktop_width: "40px"
+
+home: 
+  limit_services: 6
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

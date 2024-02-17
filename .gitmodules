@@ -1,0 +1,6 @@
+[submodule "jekyll-serif-theme"]
+	path = jekyll-serif-theme
+	url = https://github.com/zerostaticthemes/jekyll-serif-theme
+[submodule "eb1a"]
+	path = eb1a
+	url = https://github.com/batchfy/eb1a
