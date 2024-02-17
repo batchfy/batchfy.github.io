@@ -10,6 +10,8 @@ keywords:
   - Immigration petition
   - Aliens of extraordinary ability
   - EB2-NIW
+  - Support letters
+  - EB1A 申请攻略
 disqus: true
 description: LaTeX template for EB1A petition
 ---
@@ -20,7 +22,10 @@ description: LaTeX template for EB1A petition
 
 This is the LaTeX template I used for my EB1A pettition which was approved in one week.
 The template includes only the outline structure of the petition letter, and specific content was removed for privacy reasons.
-Sample PDF can be found [here](/images/eb1a/eb1a-sample.pdf) and LaTeX source code is on [GitHub](https://github.com/batchfy/eb1a).
+Click the link to see the [Sample PDF](/images/eb1a/eb1a-sample.pdf) and LaTeX source code is on [GitHub](https://github.com/batchfy/eb1a).
+I hope this would be helpful to those who want to apply on their own without an attorney.
+
+这是我的 EB1A 申请攻略和申请书样例。希望对那些打算 DIY 独立申请的人有帮助。
 
 ## Important Questions
 ### Why self-petition
@@ -54,6 +59,8 @@ Here is an example letter I used to request a support letter:
 > Dear Professor A: I hope this letter finds you in excellent condition. My name is B, and I am a C at the University of D. I am writing to inquire if you would be willing to provide a letter of support for my application for permanent residence in the USA. I hereby provide my personal homepage for your reference: https://example.com. I obtained my Ph.D. degree from E University, where I conducted research on F. One of my papers, "G" which was published in Journal H was cited in your publication "I" published in journal J. Given our shared research interests, I believe that you are well-suited to evaluate my work. A recommendation from an expert like yourself would undoubtedly carry great weight in the success of my application. I would greatly appreciate your support. I understand that asking a stranger to write a recommendation letter could be somewhat abrupt. However, the US Citizenship and Immigration Services (USCIS) requires letters from independent experts with whom the applicant has not worked before, not an employer, colleague, advisor or client.
 I hope you can consider my situation and kindly provide me with a letter of support. If you are comfortable with providing a letter of support, I would be happy to prepare a draft for your convenience. Thank you for your consideration, and I look forward to hearing from you soon. Best regards, B
 
+A sample support letter from independent expert can be found [here](/images/eb1a/sample-letter-of-support-from-independent-expert.pdf).
+Please be aware that the letter is better to be **printed in the expert's institutional letterhead** (with logo and institution name).
 
 ### Why use LaTeX
 There are numerous references to the exhibits in the petition letter, and the sections are cross-referenced as well.
