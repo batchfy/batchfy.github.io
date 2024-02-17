@@ -120,8 +120,8 @@ This section presents evidence demonstrating that granting you a green card woul
 
 The benefit can be demonstrated in two aspects:
 
-* Your domain of expertise is crucial to the prosperity of the United States.
-* Your work contributes positively to the well-being and interests of the United States.
+* Your **domain of expertise** is crucial to the prosperity of the United States. For example, Organic Chemistry is important to the US, Artificial Intelligence is important to the US.
+* Your **specific expertise and past contributions** is beneficial to the well-being and interests of the United States. For example, the specific technologies you invented.
 
 ## Tips on writing petition letter
 The emphasis of the EB1A petition is to provid evidence that the petitioner meats at least three out of ten criterion listed in listed in [8 CFR, Section 204.5(h)(3)](https://www.law.cornell.edu/cfr/text/8/204.5)
