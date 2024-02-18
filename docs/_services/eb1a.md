@@ -39,10 +39,24 @@ The attorney's role is limited to reorganizing the provided documents into a for
 I think this part can be done by myself with an example petition letter.
 Luckily, I found [Razvan Marinescu's petition letter](https://razvanmarinescu.github.io/assets/main.pdf) which is a good reference for me.
 
+The attorney's revised petition letter is overly verbose for me. Many of the sentences consist of universally general descriptions that apply to everyone. I do write papers and review papers, personally, I prefer concrete and precise
+sentences. These verbose and general may be harmful to your application.
+
 It often takes longer to go with a attorney than go solo because the attorney is not exclusively working with your case.
 You have to discuss back and forth to revise the documents,
 but the attorney is often slow in response
 (unless you pay a significant amount for an attorney dedicating on your case).
+
+There is always a trade-off between cost and quality. If you can afford an attorney exclusively dedicated to your case, crafting a customized petition letter for you, go for it.
+
+
+**为什么不找律师**
+* 即便是请律师，70-80% 的内容还是要自己准备，包括但不限于总结自己的背景/贡献和成就，找推荐人，写推荐信草稿。律师只是将你的材料整理成申请书的格式，并在合适的地方引用 USCIS 的条款。
+* 找律师更慢，半年起步，两三年也有可能。如果推荐信都搞定了，自己全职写可能一个星期就写完了。主要是需要和律师反复沟通修改文件，而律师回复有时候不及时（但也理解，律师要为很多客户服务）。
+* 律师写的内容个人感觉很罗嗦，信息密度低，很多说法可以用在很多人身上。个人感觉这种内容移民审核官并不一定喜欢。
+
+一切都是金钱和质量的权衡，如果你请得起专人律师为你量身定制申请书，别犹豫，律师肯定更专业。
+
 
 ### How to get support letters from independent experts
 According to USCIS, majority of reference letters should come from independent and well-recognized experts.
@@ -111,8 +125,12 @@ When making statements, it is essential to include references to the appropriate
 The second section furnishes essential evidence to substantiate the extraordinary ability of the petitioner.
 
 This section is the most important part of the petition letter. I suggest you to read the [USCIS policy manual](https://www.uscis.gov/policy-manual/volume-6-part-f-chapter-2) prior to writing this part.
-There are ten criteria for extraordinary ability (refer to [8 CFR, Section 204.5(h)(3)](https://www.law.cornell.edu/cfr/text/8/204.5)), each of which is accompanied by detailed explanations and corresponding examples in the policy manual.
+
+There are **ten criteria** for extraordinary ability (refer to [8 CFR, Section 204.5(h)(3)](https://www.law.cornell.edu/cfr/text/8/204.5)), each of which is accompanied by detailed explanations and corresponding examples in the policy manual.
 The petitioner are required to meet at least three out of ten criteria to establish extraordinary ability.
+
+这部分一定要仅仅围绕 USCIS policy manual 来写。manual 里面针对每一个 criterion 都有详细的解释和例子，
+就按照例子中的的情形来展开陈述。
 
 
 ### Section 3: Proof of benefit to the US
@@ -120,8 +138,12 @@ This section presents evidence demonstrating that granting you a green card woul
 
 The benefit can be demonstrated in two aspects:
 
-* Your **domain of expertise** is crucial to the prosperity of the United States. For example, Organic Chemistry is important to the US, Artificial Intelligence is important to the US.
-* Your **specific expertise and past contributions** is beneficial to the well-being and interests of the United States. For example, the specific technologies you invented.
+1. Your **field of expertise** is crucial to the prosperity of the United States. For example, Organic Chemistry is important to the US, Artificial Intelligence is important to the US. You can cite some research reports or market analyses to demonstrate the importance of the field.
+2. Your **specific expertise and past contributions** is beneficial to the well-being and interests of the United States. For example, the specific technologies you invented.
+
+这部分从两个方面来说：
+1. 你的研究领域，学科对美国很重要。可以引用一些研究报告，市场报告来证明这个领域对美国经济/科技/安全很重要。
+2. 你个人的研究成果对美国很重要。
 
 ## Tips on writing petition letter
 The emphasis of the EB1A petition is to provid evidence that the petitioner meats at least three out of ten criterion listed in listed in [8 CFR, Section 204.5(h)(3)](https://www.law.cornell.edu/cfr/text/8/204.5)
