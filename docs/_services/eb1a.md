@@ -160,7 +160,12 @@ The template is well-organized, and each part provides evidence for a specific c
 This is not legal advice. The information I provide here is petition documents to help you understand what are the requirements for the EB-1A I-140 petition and how to draft it yourself.
 
 ## Pay for more
-If you desire more detailed information to assist with your petition, I am willing to share my complete petition (with sensitive content removed) upon payment. Full PDF template: 💲60. Full LaTeX template: 💲100.
+If you desire more detailed information to assist with your petition,
+I can share my complete petition (with sensitive content removed) upon payment.
+完整申请书里有太多个人信息，恕不免费提供，谢谢。
+
+
+Full PDF template: 💲60. Full LaTeX template: 💲100.
 <div class='container mt-5'>
     <stripe-buy-button
     buy-button-id="buy_btn_1OjbvWCkuXBpFvcF9jpKqwUs"
