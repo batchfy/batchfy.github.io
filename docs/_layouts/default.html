@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+  {% include google-analytics.html %}
   <meta charset="utf-8">
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -27,18 +28,12 @@
   {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}"/>{% endif %}
   {% if page.description %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
   <meta name="twitter:card" content="summary"/>
-  {% if site.data.seo.google_tag_mamager_id %}{% include google-tag-manager.html %}{% endif %}
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
 </head>
 
 <body class='page {{layout.bodyClass}}'>
-  {% if site.data.seo.google_tag_mamager_id %}
-  <noscript>
-    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVJSFNWL"height="0" width="0" style="display:none;visibility:hidden"></iframe>
-  </noscript>
-  {% endif %}
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
@@ -47,6 +42,5 @@
   <!-- {% include footer.html %} -->
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include google-analytics.html %}
 </body>
 </html>
