@@ -31,7 +31,7 @@ I hope this would be helpful to those who want to apply on their own without an 
 ### Why self-petition
 I tried to go with an attorney but I still have to do 70-80% of the work by myself.
 I will need to provide a description of my background and outline my achievements.
-I have to gather all evidence (my publications, diplomas, transcripts, journal reviews),
+I have to gather all evidence (publications, diplomas, transcripts, journal reviews),
 find potential individuals to write reference letters,
 and draft the reference letters and send out the draft letters.
 
