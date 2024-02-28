@@ -6,12 +6,14 @@ keywords:
   - EB1A
   - EB1A kit
   - EB1A template
+  - Example EB1A petition letter
   - LaTeX
   - Immigration petition
   - Aliens of extraordinary ability
   - EB2-NIW
   - Support letters
   - EB1A 申请攻略
+  - 杰出人才移民
 disqus: true
 description: LaTeX template for EB1A petition
 ---
