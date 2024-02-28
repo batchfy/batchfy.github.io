@@ -20,9 +20,12 @@ description: LaTeX template for EB1A petition
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
-This is the LaTeX template I used for my EB1A pettition which was approved in one week.
-The template includes only the outline structure of the petition letter, and specific content was removed for privacy reasons.
-You can get the LaTeX source code and preview the PDF at <https://scienhub.com/scienhub/eb1a/editor>.
+This is an example EB1A petition letter based on my EB1A application that was approved in one week.
+The template includes the basic structure of a petition letter with specific content removed for privacy reasons.
+
+Sample pdf petition letter can be found here <https://batchfy.com/images/eb1a/eb1a-sample.pdf>.
+Online preview and LaTeX source code can be found at <https://scienhub.com/scienhub/eb1a/editor>.
+
 I hope this would be helpful to those who want to apply on their own without an attorney.
 
 这是我的 EB1A 申请攻略和申请书样例。希望对那些打算 DIY 独立申请的人有帮助。
